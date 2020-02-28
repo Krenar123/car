@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# car
-=======
+
 # Practice using README.md 
 ## If we use '##' its header 2
 
