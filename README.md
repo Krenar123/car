@@ -25,7 +25,7 @@ Set car model year etc and you can spray you car
 Using speed_up method change current speed, you can brake and shut_off
 
 
-***This one is useless right now so... Skip it ***
+*_This one is useless right now so... Skip it_*
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
